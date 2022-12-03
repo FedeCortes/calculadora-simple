@@ -1,0 +1,51 @@
+#appBg{
+    height:420px;
+    width:300px;
+    border:1px solid black;
+    border-radius:5px;
+    background-color: lightseagreen;
+    text-align: center;
+}
+
+#appBg form {
+    height:100%;
+    width:100%
+ 
+    
+}
+#appBg input[type=textfield]{
+    font-size:x-large;
+    height:10%;
+    width:90%;
+    border: 2px solid black;
+}
+.boton-gris{
+    width:70px;
+    height:70px;
+    background-color:grey;
+    border:2px solid black;
+    border-radius:50%;
+}
+.boton-operaciones{
+    color:white;
+    width:70px;
+    height:70px;
+    background-color:blueviolet;
+    border:2px solid black;
+    border-radius:50%;
+}
+.boton-gris:hover{
+    width:70px;
+    height:70px;
+    background-color:whitesmoke;
+    border:2px solid black;
+    border-radius:50%;
+}
+.boton-operaciones:hover{
+    color:white;
+    width:70px;
+    height:70px;
+    background-color:brown;
+    border:2px solid black;
+    border-radius:50%;
+}
